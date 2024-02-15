@@ -13,10 +13,10 @@ The Hough Transform is a widely used algorithm in computer vision that enables t
 To get started with using the Hough Transform for line detection, simply clone this repository to your local machine and run the notebook using Jupyter notebook. 
 
 ### Dependencies
-Python 3.x
-OpenCV
-NumPy
-Matplotlib
+- Python 3.x
+- OpenCV
+- NumPy
+- Matplotlib
 
 ### Usage
 Clone the repository to your local machine:
